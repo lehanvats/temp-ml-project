@@ -1,0 +1,10 @@
+column,lower_fence,upper_fence,n_outliers,pct_outliers
+selling_price,-350000.0,1250000.0,306,4.55
+km_driven,-55000.0,193000.0,161,2.4
+car_age,-6.0,18.0,57,0.85
+mileage,8.25,31.05,6,0.09
+engine,745.5,1949.5,1207,17.97
+max_power,17.75,149.35,304,4.53
+torque_nm,-25.08,335.14,282,4.2
+torque_rpm,-375.0,6625.0,0,0.0
+seats,5.0,5.0,1464,21.79
